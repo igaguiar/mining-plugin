@@ -1,0 +1,4 @@
+name: mining-plugin
+version: '${version}'
+main: igaodev.miningplugin.MiningPlugin
+api-version: '1.20'
